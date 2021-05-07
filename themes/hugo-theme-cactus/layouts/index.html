@@ -5,7 +5,7 @@
   {{ end }}
   {{ if isset .Site.Params "social" }}
       <p>
-	  <p>Find me on
+	  <p>Reach out: 
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}

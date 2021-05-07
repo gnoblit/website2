@@ -36,7 +36,7 @@ markup:
     renderer:
       unsafe: true
 params:
-  colortheme: white
+  colortheme: custom
   comments:
     enabled: no
     engine: disqus
