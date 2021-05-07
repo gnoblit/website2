@@ -9,7 +9,7 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Writings
+    - name: Blog
       url: /posts
       weight: 2
     # - name: Tags
@@ -18,12 +18,15 @@ menu:
     - name: About
       url: /about
       weight: 3
-    - name: CV
-      url: static/files/CV.pdf
+    - name: Papers
+      url: /papers
       weight: 4
+    - name: CV
+      url: /files/CV.pdf
+      weight: 5
     - name: RSS
       url:  https://www.grahamnoblit.com/index.xml
-      weight: 5
+      weight: 6
 markup:
   tableOfContents:
     endLevel: 4
