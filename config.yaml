@@ -19,7 +19,7 @@ menu:
       url: /about
       weight: 3
     - name: CV
-      url: /static/files/CV.pdf
+      url: static/files/CV.pdf
       weight: 4
     - name: RSS
       url:  https://www.grahamnoblit.com/index.xml

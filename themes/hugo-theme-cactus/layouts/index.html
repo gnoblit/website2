@@ -4,7 +4,8 @@
     {{ .Site.Params.description }}
   {{ end }}
   {{ if isset .Site.Params "social" }}
-      <p>Find me on
+      <p>
+	  <p>Find me on
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}
@@ -33,6 +34,7 @@
         {{ end }}
       {{ end }}
       </p>
+	  </p>
   {{ end }}
   </section>
 
