@@ -1,10 +1,11 @@
 {{ define "main" }}
   <section id="about">
   {{ if isset .Site.Params "description" }}
-    {{ .Site.Params.description }}
+    {{ .Site.Params.description | markdownify  }}
   {{ end }}
   {{ if isset .Site.Params "social" }}
-      <p>Find me on
+      <br>
+      <p>Reach out:
       {{ $length := (len .Site.Params.social) }}
       {{ range $index, $elem := .Site.Params.social}}
       {{ if eq $elem.name "email" }}
