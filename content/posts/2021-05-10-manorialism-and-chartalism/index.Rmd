@@ -4,8 +4,8 @@ author: Graham Noblit
 date: '2021-05-10'
 slug: []
 categories: []
-tags: [chartalism, political evolution, cultural evolution, Ancient Rome,]
-draft: yes
+tags: [chartalism, political evolution, cultural evolution, Ancient Rome, MMT]
+draft: no
 ---
 
 **A Disclaimer**: I am interested in political economy and political evolution so unsurprisingly, I read a fair bit of history and ethnography. Chartalism/neochartalism deeply interests me because it is one of the few attempts, that I am aware of, to deeply understand the construction of some of the key institutions of history – money, markets, and the state. I like the neochartalist story because it fills a niche I generally see ignored. I do not know enough fiscal history to determine whether it is faithful to history. Being more interested in institutional design than institutional history, I also do not feel compelled to do the incredible amount of work, only properly done by a historian, required to assess its historical veracity. Similarly, I am neither a historian nor an economist – heterodox or otherwise – but instead a cultural evolutionist. I think about how institutions evolve (generally political ones) and how they impact psychology and behavior. I read history and economics but do not do them which means that I’m not in the weeds on these topics. 
