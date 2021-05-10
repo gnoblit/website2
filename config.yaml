@@ -45,7 +45,7 @@ params:
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
-  projectsUrl: https://github.com/gohugoio
+  projectsUrl:
   rss: yes
   show_updated: no
   showAllPostsOnHomePage: no
