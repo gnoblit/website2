@@ -1,7 +1,7 @@
 baseURL: https://www.grahamnoblit.com
 languageCode: en-us
 title: Process
-theme: hugo-theme-cactus
+theme: "hugo-theme-cactus"
 copyright: Graham Noblit
 disqusShortname: example
 menu:
@@ -41,7 +41,7 @@ params:
     enabled: no
     engine: disqus
   dateFormat: '2006-01-02'
-  description: I am a cultural evolutionist in the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at Harvard University. I work to understand how political-economic institutions evolve across societies and how they impact minds. This interest helps to to understand how minds are fundamentally cultural and what our cultural origins implies for policy, politics, and even artificial intelligence.  
+  description: I am a cultural evolutionist in the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at Harvard University. I work to understand how political-economic institutions evolve across societies and how they impact minds and what our cultural origins imply for policy, politics, and even artificial intelligence.
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
