@@ -41,7 +41,7 @@ params:
     enabled: no
     engine: disqus
   dateFormat: '2006-01-02'
-  description: I am a cultural evolutionist in the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at Harvard University. I work to understand how political-economic institutions evolve across societies and how they impact minds and what our cultural origins imply for policy, politics, and even artificial intelligence.
+  description: I am a cultural evolutionist in the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at Harvard University. I work to understand how political-economic institutions evolve across societies and how they impact minds and psychology. I ultimately hope to understand what our cultural origins imply for policy, politics, and even artificial intelligence.
   googleAnalyticsAsync: yes
   mainSection: posts
   postsOnHomePage: 5
